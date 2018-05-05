@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 30 00:00:09 2018
 
-@author: moham
+@author: mohamad moghaddam
 """
 import csv
 from nltk.tokenize import TweetTokenizer
